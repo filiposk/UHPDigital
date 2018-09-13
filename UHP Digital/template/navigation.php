@@ -8,6 +8,7 @@
       <ul class="menu simple vertical medium-horizontal">       
         <li><a href="createcard.php">Create Card</a></li>
         <li><a href="cards.php">Cards</a></li>
+        <li><a href="print.php">Print u pdf</a></li>
       </ul>
     </div>
   </div>
